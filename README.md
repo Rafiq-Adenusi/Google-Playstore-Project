@@ -1,1 +1,1 @@
-This is just visualization on Google Playstore dataset I did in the year 2020.
+This is a visualization on Google Playstore dataset from the year 2020.
